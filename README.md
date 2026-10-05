@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
+    <img src="./hero-dark.svg" alt="Lughx (Thai Nhat Minh), JavaScript and Dockerfile developer, terminal-style profile card">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./arena-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./arena-light.svg">
+    <img src="./arena-dark.svg" alt="Animated contribution grid: a pixel spaceship clears stray squares, then spells LUGHX in green squares">
+  </picture>
+</div>
 
-<!--
-**xlughzdev/xlughzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lughx
 
-Here are some ideas to get you started:
+**JavaScript / Dockerfile developer** · real name **Thai Nhat Minh** · GitHub [`@xlughzdev`](https://github.com/xlughzdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- **Nickname:** Lughx
+- **Real name:** Thai Nhat Minh
+- **GitHub:** [xlughzdev](https://github.com/xlughzdev)
+
+## Stack
+
+`JavaScript` · `Dockerfile`
+
+## Connect
+
+- GitHub: [github.com/xlughzdev](https://github.com/xlughzdev)
+- Facebook: [facebook.com/iamlughx](https://www.facebook.com/iamlughx)
+
+<sub>The banners are hand-built SVG + SMIL (no JavaScript). Regenerate them with <code>python3 build_svgs.py</code>.</sub>
