@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header" width="100%">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
@@ -81,13 +83,8 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**, and the lan
 
 <div align="center">
 
-|      Platform      | Link                                                       |
-| :----------------: | :--------------------------------------------------------- |
-|     **GitHub**     | [github.com/xlughzdev](https://github.com/xlughzdev)       |
-|    **Facebook**    | [facebook.com/iamlughx](https://www.facebook.com/iamlughx) |
-|     **TikTok**     | [@lughx.08](https://www.tiktok.com/@lughx.08)              |
-|     **Discord**    | `yc5p`                                                     |
-| **Discord Server** | [discord.gg/lughxshop](https://discord.gg/lughxshop)       |
+[![GitHub](https://img.shields.io/badge/GitHub-xlughzdev-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/xlughzdev)
+[![Facebook](https://img.shields.io/badge/Facebook-iamlughx-2563EB?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/iamlughx)
 
 </div>
 
@@ -101,7 +98,6 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**, and the lan
 > profile loaded
 > identity verified
 > stack detected: JavaScript / Dockerfile
-> social links connected
 > connection ready
 ```
 
@@ -112,3 +108,5 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**, and the lan
 <sub>Regenerate assets with <code>python3 build_svgs.py</code></sub>
 
 </div>
+
+
