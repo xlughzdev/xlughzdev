@@ -85,6 +85,9 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**, and the lan
 
 [![GitHub](https://img.shields.io/badge/GitHub-xlughzdev-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/xlughzdev)
 [![Facebook](https://img.shields.io/badge/Facebook-iamlughx-2563EB?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/iamlughx)
+[![TikTok](https://img.shields.io/badge/TikTok-%40lughx.08-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@lughx.08)
+[![Discord Server](https://img.shields.io/badge/Discord-lughxshop-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/lughxshop)
+[![Discord](https://img.shields.io/badge/Discord-yc5p-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
 
 </div>
 
