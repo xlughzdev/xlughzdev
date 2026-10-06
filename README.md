@@ -1,32 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.svg">
+  <img src="./assets/wave-dark.svg" alt="Animated aurora wave header" width="100%">
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
-    <img
-      src="./hero-dark.svg"
-      alt="Lughx (Thai Nhat Minh), Software Developer, terminal-style profile card"
-      width="100%"
-    >
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
+  <img src="./hero-dark.svg" alt="Lughx (Thai Nhat Minh), Software Developer, terminal-style profile card" width="100%">
+</picture>
 
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./arena-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./arena-light.svg">
-    <img
-      src="./arena-dark.svg"
-      alt="Animated contribution grid where a pixel spaceship clears stray cells and spells LUGHX"
-      width="100%"
-    >
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./arena-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./arena-light.svg">
+  <img src="./arena-dark.svg" alt="Animated contribution grid where a pixel spaceship clears stray cells and spells LUGHX" width="100%">
+</picture>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -36,11 +28,21 @@
 
 `Thai Nhat Minh` · `@xlughzdev`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/typing-light.svg">
+  <img src="./assets/typing-dark.svg" alt="Typing animation: Keep it clean. Keep it technical. Keep it focused.">
+</picture>
+
 </div>
 
----
-
-## `~/lughx/about`
+<h2 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.svg">
+  <img src="./assets/section-about-dark.svg" alt="~/lughx/about">
+</picture>
+</h2>
 
 > A developer profile built around a simple idea:
 > **keep it clean, technical, and focused.**
@@ -49,11 +51,21 @@ I’m **Lughx**, real name **Thai Nhat Minh**.
 
 My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**. I build software using **C#**, **Java**, **HTML5**, **CSS3**, **SQL**, **PostgreSQL**, **JavaScript**, **Node.js**, **C++**, **Rust**, and **Dockerfile**.
 
----
-
-## `~/lughx/stack`
+<h2 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-stack-light.svg">
+  <img src="./assets/section-stack-dark.svg" alt="~/lughx/stack">
+</picture>
+</h2>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ticker-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ticker-light.svg">
+  <img src="./assets/ticker-dark.svg" alt="Scrolling ticker of my technologies">
+</picture>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -69,42 +81,108 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**. I build sof
 
 </div>
 
----
-
-## `~/lughx/identity`
-
-```text
-┌──────────────────────────────────────────┐
-│ PROFILE                                  │
-├──────────────────────────────────────────┤
-│ Nickname   : Lughx                       │
-│ Real Name  : Thai Nhat Minh              │
-│ Handle     : @xlughzdev                  │
-│ Tech Stack : C# / Java / HTML / CSS / SQL│
-│              JS / Node / Postgres / C++  │
-│              Rust / Dockerfile           │
-└──────────────────────────────────────────┘
-```
-
----
-
-## `~/lughx/connect`
+<h2 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-identity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-identity-light.svg">
+  <img src="./assets/section-identity-dark.svg" alt="~/lughx/identity">
+</picture>
+</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-xlughzdev-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/xlughzdev)
-[![Facebook](https://img.shields.io/badge/Facebook-iamlughx-2563EB?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/iamlughx)
-[![TikTok](https://img.shields.io/badge/TikTok-%40lughx.08-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@lughx.08)
-[![Discord Server](https://img.shields.io/badge/Discord-lughxshop-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/lughxshop)
-[![Discord](https://img.shields.io/badge/Discord-yc5p-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/idcard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/idcard-light.svg">
+  <img src="./assets/idcard-dark.svg" alt="Developer ID card: Lughx, Thai Nhat Minh, Software Developer, @xlughzdev">
+</picture>
 
 </div>
 
----
+<details>
+<summary><b>Plain-text profile</b></summary>
+
+```text
+┌────────────────────────────────────────────┐
+│ PROFILE                                    │
+├────────────────────────────────────────────┤
+│ Nickname   : Lughx                         │
+│ Real Name  : Thai Nhat Minh                │
+│ Handle     : @xlughzdev                    │
+│ Role       : Software Developer            │
+│ Tech Stack : C# / Java / HTML / CSS / SQL  │
+│              JS / Node / Postgres / C++    │
+│              Rust / Dockerfile             │
+└────────────────────────────────────────────┘
+```
+
+</details>
+
+<h2 align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-connect-light.svg">
+  <img src="./assets/section-connect-dark.svg" alt="~/lughx/connect">
+</picture>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/xlughzdev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-github-light.svg">
+  <img src="./assets/btn-github-dark.svg" alt="GitHub: @xlughzdev" width="32%">
+</picture>
+  </a>
+  <a href="https://www.facebook.com/iamlughx">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-facebook-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-facebook-light.svg">
+  <img src="./assets/btn-facebook-dark.svg" alt="Facebook: iamlughx" width="32%">
+</picture>
+  </a>
+  <a href="https://www.tiktok.com/@lughx.08">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-tiktok-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-tiktok-light.svg">
+  <img src="./assets/btn-tiktok-dark.svg" alt="TikTok: @lughx.08" width="32%">
+</picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/lughxshop">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-discord-server-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-discord-server-light.svg">
+  <img src="./assets/btn-discord-server-dark.svg" alt="Discord server: lughxshop" width="32%">
+</picture>
+  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-discord-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-discord-light.svg">
+  <img src="./assets/btn-discord-dark.svg" alt="Discord: yc5p" width="32%">
+</picture>
+</p>
 
 <div align="center">
 
-### `LUGHX.EXE`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/bootlog-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/bootlog-light.svg">
+  <img src="./assets/bootlog-dark.svg" alt="LUGHX.EXE boot log: profile loaded, identity verified, stack detected, connection ready">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer-dark.svg" alt="Footer: a small spaceship lights up a row of contribution cells">
+</picture>
+
+</div>
+
+<details>
+<summary><b><code>LUGHX.EXE</code> log (plain text)</b></summary>
 
 ```text
 > profile loaded
@@ -113,7 +191,4 @@ My GitHub account is **[@xlughzdev](https://github.com/xlughzdev)**. I build sof
 > connection ready
 ```
 
-<br>
-</div>
-
-
+</details>
